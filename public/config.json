@@ -1,6 +1,7 @@
 {
   "dataApiHostName": "apic-punitsdemo.data.australiaeast.azure-apicenter.ms/workspaces/default",
   "title": "API portal",
+  "apiVersion": "2023-07-01-preview"
   "authentication": {
       "clientId": "a50bb903-067e-4380-999d-577a7180e2fe",
       "tenantId": "9bb17874-a49c-4e6c-9160-09da49ee1f64",
